@@ -9,6 +9,7 @@ public class IndexController {
     public String hello() {
         System.out.println("我有一个想法！");
         System.out.println("我有一个想法2！");
+        System.out.println("我有一个想法3！");
         return "宜达互联";
     }
 }
