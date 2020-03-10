@@ -13,6 +13,7 @@ public class IndexController {
         System.out.println("好!那大家一起行动起来吧!!");
         System.out.println("+1");
         System.out.println("+1");
+        System.out.println("+1");
         return "宜达互联";
     }
 }
