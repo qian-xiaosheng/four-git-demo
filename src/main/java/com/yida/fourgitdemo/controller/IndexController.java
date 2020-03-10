@@ -10,6 +10,7 @@ public class IndexController {
         System.out.println("我有一个想法！");
         System.out.println("我有一个想法2！");
         System.out.println("我有一个想法3！");
+        System.out.println("好!那大家一起行动起来吧!!");
         return "宜达互联";
     }
 }
