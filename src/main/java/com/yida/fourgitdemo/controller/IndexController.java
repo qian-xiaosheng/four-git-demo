@@ -8,6 +8,7 @@ public class IndexController {
     @GetMapping("/yida")
     public String hello() {
         System.out.println("我有一个想法！");
+        System.out.println("我有一个想法2！");
         return "宜达互联";
     }
 }
